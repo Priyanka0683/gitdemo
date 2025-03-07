@@ -1,2 +1,2 @@
 print("heyyyyyy")
-pr
+print("heyy npc")
